@@ -2,6 +2,7 @@ import java.util.Scanner;
 import java.util.StringTokenizer;
 
 /*funcion creada para encontrar la palabra mas larga en una frase	*/
+/*Included things in github*/
 
 public class LongestWord 
 {
